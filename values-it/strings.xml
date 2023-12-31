@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
 <resources>
   <string name="app_name">ThunderDex</string>
-  <string name="news">Notizia</string>
+  <string name="news">Notizie</string>
   <string name="updates">Aggiornamenti</string>
   <string name="favorites">Preferiti</string>
   <string name="settings">Impostazioni</string>
@@ -18,14 +17,14 @@
   <string name="description">Descrizione:</string>
   <string name="general_info">Informazioni generali:</string>
   <string name="pros_and_cons">Pro e contro:</string>
-  <string name="pros">Professionisti:</string>
+  <string name="pros">Pro:</string>
   <string name="cons">Contro:</string>
   <string name="empty_list">Elenco vuoto</string>
   <string name="loading">Caricamento…</string>
   <string name="please_wait">Attendere prego…</string>
-  <string name="connection_error">Non poteva collegarsi al server! :(</string>
+  <string name="connection_error">Connessione al server non riuscita! :(</string>
   <string name="something_went_wrong">Errore: qualcosa è andato storto! D:</string>
-  <string name="home">Casa</string>
+  <string name="home">Home</string>
   <string name="planes">Aerei/Jet</string>
   <string name="helicopters">Elicotteri</string>
   <string name="tanks">Carri armati</string>
@@ -33,12 +32,12 @@
   <string name="favorite">Preferito</string>
   <string name="unfavorite">Sfavorito</string>
   <string name="donate_dialog_title">
-    <b>❤️ Donations ❤️</b>
+    <b>❤️ Donazioni ❤️</b>
   </string>
-  <string name="settings_app_theme_title">Temi Monet</string>
-  <string name="settings_app_theme_desc">Abilita tematica Monet per %s</string>
+  <string name="settings_app_theme_title">Tema Monet</string>
+  <string name="settings_app_theme_desc">Abilita tema Monet per %s</string>
   <string name="settings_donate_title">
-    <i>Enjoying this app?</i>
+    <i>Ti piace questa app?</i>
   </string>
   <string name="settings_donate_desc">❤️ Considera la possibilità di donare tramite PayPal! ❤️</string>
   <string name="settings_clear_cache_title">Svuota cache</string>
